@@ -1,10 +1,10 @@
-# Build Script for HIP
+# Build Script for ROCm - Work in progress
 
-This script builds ROCm from scratch. It assumes that you have driver intalled and builds contents on top.
+The idea is to have a script which builds ROCm from its public sources. Its work in progress and expect more additions to it.
 
 ## How to run
 
-`python build.py`
+`python build.py -h`
 
 ## Prereq
 
